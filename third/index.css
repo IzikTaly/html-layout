@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .big-row {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .first-line {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .first-line-div {
+    width: 50px;
+    height: 50px;
+    background-color: #4A90E2;
+  }
+  
+  .second-line {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .third-line {
+    background-color: #4A90E2;
+  }
+  
+  .fourth-line {
+    background-color: #50E3C2;
+  }
+  
+  .fifth-line {
+    background-color: #B8E986;
+  }
+  
+  .sixth-line {
+    background-color: #F8E71C;
+  }
